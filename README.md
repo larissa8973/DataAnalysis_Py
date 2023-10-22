@@ -1,7 +1,6 @@
 # DataAnalysis_Py
-Pandas, NumPy, Matplotlib.
+
 <br>
----
 
 ## NumPy 入门
 1. 简介
@@ -27,9 +26,8 @@ Pandas, NumPy, Matplotlib.
 7. 随机漫步
     - [随机漫步的模拟](https://en.wikipedia.org/wiki/Random_walk)
 
----
+
 <br>
----
 
 ## pandas 入门
 
@@ -90,4 +88,3 @@ Pandas, NumPy, Matplotlib.
 10. pandas高级应用
     - 《Python for Data Analysis(Second Edition)》
 
----
