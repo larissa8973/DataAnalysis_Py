@@ -29,7 +29,7 @@
 
 <br>
 
-## pandas 入门
+## Pandas 入门
 
 - 官方文档中强调，Pandas 项目名称中的字母应全部小写，且导入程序库的语句为：`import pandas as pd`
 - Pandas 起初是被作为金融数据分析工具开发出来的，其名称来源于面板数据(Panel Data)和Python 数据分析(Data Analysis)，Panel Data 是经济学中关于多维数据集的一个术语
